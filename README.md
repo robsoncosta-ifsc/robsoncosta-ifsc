@@ -1,4 +1,4 @@
-**Unique Visits** <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm72fw3z6ezakq6nolt" alt="trackgit-views" /></a>
+<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltm72fw3z6ezakq6nolt" alt="trackgit-views" /></a>
 
 ### Hi there 👋
 
