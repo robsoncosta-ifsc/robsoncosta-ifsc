@@ -11,6 +11,6 @@
 🏢 I also have a private account on GitHub ([here](https://github.com/robson-costa)) where there are private repositories of work i've done for some companies.<br><br>
 
 Currently i act as IoT Solutions Architect, defining technologies to be used, since the hardware, passing through the firmware and all communication protocols until the bussiness layer with mobile and web applications.<br>
-I love programming and the languages ​i usually use are C and C++. For some specific works i use Python and Java.<br>
+I love programming and the languages ​i usually use are C and C++. For some specific works i use Python, Dart, JScript and Java.<br>
 Lately i've been using VSCode as a programming environment. But as i have already worked in the R&D department of a multinational industry, i have already worked with Eclipse, IAR and Keil. In addition, I have also worked with the Zilinx IDE.<br>
 I've worked on both bare metal projects and RTOS projects (MQX and FreeRTOS).
